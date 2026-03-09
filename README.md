@@ -3,7 +3,7 @@
 🚀 **Mobile App Developer** specializing in **Flutter** and **React Native**, currently working at **Technosofts** as a Flutter Mobile App Developer.
 
 ### 📱 What I've Built
-- **Flutter:** Tasbeeh Max, Video to Audio Converter Max, Shield VPN, VPN Max
+- **Flutter:** Tasbeeh Max, Video to Audio Converter Max, Shield VPN, Turbo Vpn 
 - **React Native:** BNPL System, Parcel Delivery App
 
 ### 🧠 What Drives Me
@@ -43,20 +43,15 @@ Always excited to work on innovative **Flutter** projects and AI-integrated mobi
 
 **AI & Prompt Engineering**
 
-![ChatGPT](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=AbdulManan-official&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=AbdulManan-official&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=AbdulManan-official&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AbdulManan-official&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulManan-official&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AbdulManan-official&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
