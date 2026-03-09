@@ -2,10 +2,6 @@
 
 🚀 **Mobile App Developer** specializing in **Flutter** and **React Native**, currently working at **Technosofts** as a Flutter Mobile App Developer.
 
-### 📱 What I've Built
-- **Flutter:** Tasbeeh Max, Video to Audio Converter Max, Shield VPN, Turbo Vpn 
-- **React Native:** BNPL System, Parcel Delivery App
-
 ### 🧠 What Drives Me
 I thrive on solving real-world problems through clean, efficient code. Whether it's architecting scalable mobile apps or fine-tuning **AI prompts** for smarter user experiences, I bring both technical depth and creative thinking to every project.
 
@@ -20,6 +16,28 @@ Always excited to work on innovative **Flutter** projects and AI-integrated mobi
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdul-manan-a96351254/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdullmanann7777@gmail.com)
+
+---
+
+## 📱 Projects
+
+### Flutter
+| Project | Description |
+|--------|-------------|
+| 🔒 **Shield VPN** | A secure VPN application built with Flutter |
+| 🚀 **Turbo VPN** | High-speed VPN app with clean UI |
+| 📿 **Tasbeeh Max** | Digital tasbih counter app with multiple features |
+| 🎵 **Video to Audio Converter Max** | Flutter app to convert video files to audio |
+| 🗺️ **OpenStreetMap Flutter Demo** | Real-time location tracking using flutter_map & geolocator |
+| 📢 **Flutter Google Ads Demo** | Google AdMob integration demo for Android |
+
+### React Native
+| Project | Description |
+|--------|-------------|
+| 💳 **TechNest BNPL System** | Buy Now Pay Later app with Firebase backend, admin dashboard & real-time order tracking |
+| 🏥 **HealthUI** | Clean UI for collecting & securely sending patient PHI with modal-based input |
+| 📦 **Parcel Delivery App** | Full-featured parcel tracking and delivery management app |
+| 🔐 **Login Screen UI** | Clean and modern login screen using React Native & Expo |
 
 ---
 
